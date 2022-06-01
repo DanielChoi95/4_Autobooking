@@ -1,0 +1,14 @@
+This is a autobooking code designed for Gyeongju silla country club in Korea (https://sillacc.co.kr/)
+Since it is developed for my grandmother, I didn't make it as a program with ui.
+Targeted time is 8~11 AM
+
+To use:
+account.py should be modified by your account
+after that, put the date according to the date form
+
+Reference
+https://hansonminlearning.tistory.com/47
+
+https://github.com/hci-mkim/rockgarden_booking
+
+https://github.com/young-yeon/Reservation-Macro
